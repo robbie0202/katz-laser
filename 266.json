@@ -1,0 +1,78 @@
+{
+  "name": "Battle Katz #266",
+  "symbol": "BKATZ",
+  "description": "BattleKatz is a collection of 1000 unique NFTs. Every BattleKatz has had it’s own experience with shedding one of its 9 lives and refining its Fighting skills. It’s not easy being a BattleKat, but someone’s gotta do it.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/robbie0202/katz-laser/main/266.png",
+  "external_url": "https://www.battlekatz.net/",
+  "edition": 266,
+  "collection": {
+    "name": "BattleKatz",
+    "family": "Amazing NTFS"
+ },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie Fur"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "blue Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Armor Top",
+      "value": "Majin Vegeta Top"
+    },
+    {
+      "trait_type": "Armor Bottom",
+      "value": "Lab Pants"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spotty Head"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Wandering"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/9XX0qWNiy2iWzuATEv59KsNal8eFbPRzqZaZutTDQZg?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DUunFkZrk2VTrr18swXTcDEbr9gruu1czErkA7Rb88gR",
+        "share": 100
+      }
+    ]
+  },
+  "status": [
+    {
+      "name": "Secondary Market",
+      "value": 1,
+      "type": "primarySaleHappened"
+    },
+    {
+      "name": "Mutable",
+      "value": 1,
+      "type": "primarySaleHappened"
+    }
+  ]
+}
